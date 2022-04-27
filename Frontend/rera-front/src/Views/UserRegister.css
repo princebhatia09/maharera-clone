@@ -1,0 +1,83 @@
+.login-bg{
+    margin-top: 5em;    
+}
+.container{
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.page-panel{
+    background-color: #fff;
+    padding: 20px;
+}
+
+.login{
+    overflow: hidden;
+}
+
+label{
+    max-width: 100%;
+    margin-bottom: 5px;
+    float: left;
+    margin-left: 5px;
+}
+
+
+
+@media screen and (min-width:1200px){
+    .container{
+        width: 1170px;
+    }
+    
+}
+
+.select-type {
+    margin-bottom: 10px;
+    padding: 5px 15px;overflow: hidden;
+    border: 1px dashed #f7e1b6;
+    background: #fbf9f4;
+}
+
+
+ .login .radios input{
+    margin-right: 7px;
+    float: left;
+}
+
+.login .radios label{
+    margin-right: 20px;
+    float: left;
+} 
+
+.radios input[type="radio"]{
+    margin-top: 5px;
+    margin-right: 5px;
+    float: left;
+}
+
+.login .form-control{
+    height: 37px;
+    color: #333;
+    background-color: #fff7f5;
+    background-image: none;
+    border: 0;
+    border-bottom: 1px solid #f1643f;
+    border-radius: 0;
+    box-shadow: none;
+}
+
+
+.form-group{
+    margin-bottom: 15px;
+}
+
+.btn-login{
+    background: #5f5f5f;
+    color: #fff; 
+    margin:0 auto; 
+    width:100px; 
+    display:block
+
+}
