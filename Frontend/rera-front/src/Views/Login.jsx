@@ -1,7 +1,9 @@
 import React from 'react';
 import "./UserRegister.css"
 
+
 function Login() {
+  
   return (
 
     <div className='login-bg'>
@@ -15,7 +17,6 @@ function Login() {
           <div className='col-md-6'></div>
           <div className='col-md-6'></div>
           <div className='col-md-2'></div>
-          <h1>ok</h1>
 
         </form>
 
