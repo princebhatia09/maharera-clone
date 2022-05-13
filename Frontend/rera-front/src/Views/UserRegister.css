@@ -51,6 +51,10 @@ label{
     float: left;
 } 
 
+.login h1{
+    
+}
+
 .radios input[type="radio"]{
     margin-top: 5px;
     margin-right: 5px;
@@ -81,3 +85,4 @@ label{
     display:block
 
 }
+
